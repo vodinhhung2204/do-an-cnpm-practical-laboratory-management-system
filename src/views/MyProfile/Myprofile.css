@@ -1,0 +1,10 @@
+.changeImg {
+    display: none;
+}
+.display:hover {
+    display: inline;
+}
+.typepassword {
+    border: 1px solid #fff;
+    padding-left: 5px;
+}
